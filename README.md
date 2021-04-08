@@ -2,7 +2,7 @@
 ## BENGAL FRUIT MART is a organic fruit centred e-commerce web-app based on Bangladesh.
 
 
-## Live web-app is here ()
+## Live web-app is here (https://full-stack-client-77eb7.web.app/)
 
 ## Developed by Jahid Alam Apu
 ## Features:
