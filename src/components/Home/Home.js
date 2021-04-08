@@ -4,7 +4,7 @@ import Fruits from '../Fruits/Fruits';
 const Home = () => {
     const [fruits, setFruits] = useState([])
     useEffect(() => {
-        fetch('http://localhost:5000/events')
+        fetch('https://vast-ridge-13042.herokuapp.com/events')
             .then(response => response.json())
             .then(result => {
                 setFruits(result);

@@ -8,7 +8,7 @@ const CheckOut = () => {
     const {id}=useParams()
     const [singleProduct,setSingleProduct]=useState({})
     useEffect(() => {
-        fetch(`http://localhost:5000/singleProduct/${id}`)
+        fetch(`https://vast-ridge-13042.herokuapp.com/singleProduct/${id}`)
         .then((res) =>res.json())
         .then((data) =>{
             setSingleProduct(data)

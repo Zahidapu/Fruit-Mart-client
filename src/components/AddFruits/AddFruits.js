@@ -13,7 +13,7 @@ const AddFruits = () => {
       imageUrl: imageUrl,
       price: data.price
     }
-    const url = 'http://localhost:5000/addFruits'
+    const url = 'https://vast-ridge-13042.herokuapp.com/addFruits'
 
     fetch(url, {
       method: 'POST',
