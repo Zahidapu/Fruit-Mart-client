@@ -4,6 +4,8 @@ BENGAL FRUIT MART is an online e-commerce app focused on organic fruits
 
 Website: https://full-stack-client-77eb7.web.app/
 
+Server Repository  https://github.com/Zahidapu/Fruit-Mart-server
+
 Dependencies used:mongodb,node js,express,cors,dotenv,react router,react hook form,bootstrap
 
 Features:
